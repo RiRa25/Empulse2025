@@ -1,0 +1,24 @@
+<section id="sponsors" class="sponsors">
+    <h2>Our Galactic Sponsors</h2>
+    <div style="height: 20px;"></div>
+    <div class="sponsor-grid">
+      <div class="sponsor-card">
+        <img src="https://via.placeholder.com/150" alt="Sponsor 1">
+        <h3>Sponsor 1</h3>
+      </div>
+      <div class="sponsor-card">
+        <img src="https://via.placeholder.com/150" alt="Sponsor 2">
+        <h3>Sponsor 2</h3>
+      </div>
+      <div class="sponsor-card">
+        <img src="https://via.placeholder.com/150" alt="Sponsor 3">
+        <h3>Sponsor 3</h3>
+      </div>
+    </div>
+    
+  </section>
+
+  <div style="height: 40px;"></div>
+    <div class="download-container">
+      <a href="event-details.pdf" download class="cta-button">Download Rule Book</a>
+    </div>
